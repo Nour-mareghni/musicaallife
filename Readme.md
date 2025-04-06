@@ -72,4 +72,6 @@ MusicaalLife/
 ├
 └── README.md
 
+## figma : https://www.figma.com/design/9R8DXXROmTvvY5sE24uY1z/Untitled?node-id=3-113&p=f
+
 
